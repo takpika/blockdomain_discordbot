@@ -1,0 +1,7 @@
+{
+    "list_path": "lists",
+    "TOKEN": "YOUR_DISCORD_BOT_TOKEN",
+    "delete": 1,
+    "send_reply": 1,
+    "mention": 1
+}

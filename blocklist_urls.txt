@@ -1,0 +1,17 @@
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://adaway.org/hosts.txt
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://logroid.github.io/adaway-hosts/hosts.txt
+https://raw.githubusercontent.com/multiverse2011/adawaylist-jp/master/hosts
+https://warui.intaa.net/adhosts/hosts.dos
+https://warui.intaa.net/files/warui_hosts/warui_malware_hosts_unbound.txt
+https://warui.intaa.net/files/warui_hosts/warui_phish_hosts_unbound.txt
+http://winhelp2002.mvps.org/hosts.txt
+https://phishing.army/download/phishing_army_blocklist.txt
+https://someonewhocares.org/hosts/zero/hosts
+http://sysctl.org/cameleon/hosts
+http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts&amp;amp;showintro=0&amp;amp;mimetype=plaintext
+https://dns66.page.link/hosts
+https://someonewhocares.org/hosts/zero/hosts
